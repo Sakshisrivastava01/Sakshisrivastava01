@@ -2,6 +2,8 @@
 
 ###
 
+<img src="assets/give_me_moving_gif_of_this_pho.gif">
+
 <h2 align="left">About Me</h2>
 
 ###
